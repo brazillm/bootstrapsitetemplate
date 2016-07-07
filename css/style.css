@@ -41,7 +41,31 @@
 
 .biggreen p{
   text-align: center;
+
 }
+.biggreen
+.buttons{
+  margin:2% 40% 0% 40%;
+
+}
+
+.white{
+height: 50px;
+width:75px;
+background-color: white;
+color:black;
+border: solid 2px grey;
+}
+
+.black{
+  height: 50px;
+  width:75px;
+  background-color: black;
+  color:white;
+  border: solid 2px grey;
+
+
+  }
 
 .what{
 height:50px;
