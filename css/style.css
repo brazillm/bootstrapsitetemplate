@@ -1,0 +1,209 @@
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.header{
+  background-color: black;
+  height:50px;
+  width: 100%;
+
+}
+.fresh{
+  color: white;
+  float: left;
+  margin-top: -12px;
+}
+.fresh h3 {
+  margin-left: 75px;
+  padding-bottom: 5px;
+
+}
+.home li{
+  display:inline;
+  color: white;
+  float: right;
+  margin-left: 75px;
+  padding: 7px;
+
+}
+
+.biggreen {
+  height:300px;
+  width:100%;
+  background-color: green;
+  color:white;
+  margin:0 auto;
+}
+.biggreen h1 {
+  text-align: center;
+}
+
+.biggreen p{
+  text-align: center;
+}
+
+.what{
+height:50px;
+padding: 5px;
+
+}
+.what p {
+text-align: center;
+}
+
+
+.starpower {
+  border: 1px solid white;
+  color:dimgrey;
+  height:300px;
+  padding:3px;
+}
+
+.starpower h2{
+  text-align: center;
+}
+.starpower p{
+  text-align: center;
+}
+.broadcast {
+
+  border: 1px solid white;
+  color:dimgrey;
+  height:300px;
+  padding:3px;
+
+}
+.broadcast h2 {
+  text-align: center;
+}
+.broadcast p{
+  text-align: center;
+}
+.talk {
+
+  border: 1px solid white;
+  color:dimgrey;
+  height:300px;
+  padding:3px;
+}
+
+.talk h2 {
+  text-align: center;
+
+}
+.talk p {
+  text-align: center;
+}
+.grow {
+
+  border: 1px solid white;
+  color:dimgrey;
+  height:300px;
+  padding:3px;
+}
+.grow h2{
+  text-align: center;
+
+}
+.grow p{
+  text-align: center;
+}
+.projects {
+  height: 50px;
+}
+.projects h4 {
+  text-align: center;
+}
+
+.clowncollege{
+  background-color: lightgrey;
+  height:200px;
+  padding: 30px;
+  border: 20px solid white;
+  float:left;
+}
+.frat{
+  background-color: lightgrey;
+  height:200px;
+  padding: 30px;
+
+  border: 20px solid white;
+  float: left;
+}
+.vacuum{
+  background-color: lightgrey;
+  height:200px;
+  padding: 20px;
+
+  border: 20px solid white;
+  float: right;
+}
+
+.lion{
+  background-color: lightgrey;
+  height:200px;
+  padding: 30px;
+  border: 20px solid white;
+  float:left;
+}
+.salon{
+  background-color: lightgrey;
+  height:200px;
+  padding: 30px;
+
+  border: 20px solid white;
+  float: left;
+
+}
+.bagle{
+  background-color: lightgrey;
+  height:200px;
+  padding: 30px;
+
+  border: 20px solid white;
+  float: left;
+}
+
+.love{
+height:50px;
+margin-bottom: 40px;
+}
+
+.love h3{
+  text-align: center;
+  font-weight: bold;
+}
+
+.hello{
+  height:300px;
+  background-color: black;
+  color:lightgrey;
+
+}
+.hello li{
+  border-bottom: 1px solid lightgrey;
+  text-align: center;
+  padding-top: 30px;
+  text-decoration: none;
+}
+
+.social {
+  height :300px;
+  background-color: black;
+  color:lightgrey;
+
+}
+.social h4 {
+  text-align: center;
+}
+.subscribe {
+  height:300px;
+  background-color: black;
+  color:lightgrey;
+
+  border: black 1px solid;
+}
+.subscribe h3{
+  text-align: center;
+}
